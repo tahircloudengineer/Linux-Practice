@@ -1,0 +1,4 @@
+Linux is a powerful operating system.
+It is widely used in servers and cloud environments.
+Text processing tools like grep, awk, sed are very useful.
+Practice these commands to automate your tasks.
